@@ -9,7 +9,7 @@ Actualmente, la información para la reserva de tutorías se encuentra dispersa 
 Estudiantes universitarios que necesitan consultar la disponibilidad de tutorías y realizar reservas para recibir apoyo académico en cursos del área de Ingeniería de Software.
 
 # Valor prometido
-Centralizar la información de disponibilidad y reservas de tutorías en una única fuente, facilitando a los estudiantes la consulta y reserva, y permitiendo a tutores y coordinación administrar el proceso mediante reglas de negocio verificables.
+Centralizar la información de disponibilidad y reservas de tutorías en una única fuente, permitiendo que los estudiantes consulten la disponibilidad y realicen reservas, y que tutores y coordinación administren el proceso de acuerdo con reglas de negocio verificables.
 
 # Restricciones conocidas
 
